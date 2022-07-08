@@ -6,8 +6,9 @@ import java.util.List;
 
 public class ListOfItems {
 	/*
-	Create a class and name it BookShelf
-	write a method, name bookshelf, that accepts String[] books, int rowNumber, int columnNumber, returns String[][] bookshelf. Method gets books and puts them inside the shelf based on rowNumber and columnNumber.
+	Create a class and name it ListOfItems
+	write a method, name listOfItems, that accepts List<String> books, List<String> noteBooks, returns List<List<String>> listOfItems. Method gets books and 
+	noteBooks, puts them inside the listOfItems and returns.
 	submit your code as usual.
 	*/
 	public static void main(String[] args) {
